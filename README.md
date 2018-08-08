@@ -1,4 +1,4 @@
-# Bamazon
+# Bam!azon
 
 Using node.js and MySQL, the objective is to create an Amazon-esque storefront that accepts and caters to user-responses. 
 The app will offer a list of products available for purchase, and once the user selects the id of the item they are interested
